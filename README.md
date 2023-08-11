@@ -3,9 +3,9 @@
 ```diff
 hi, im joby 🔮.
 
-@@beginner programming student.@@
+@@programming student.@@
 + dwelling the internet
 - 17 years old
 ! software developer, linux geek
-# 📖 golang, python
+# 📖 python, html, css, js
 ```
