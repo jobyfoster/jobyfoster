@@ -5,7 +5,7 @@ hi, im joby 🔮.
 
 @@programming student.@@
 + dwelling the internet
-- 17 years old
-! software developer, linux geek
-# 📖 python, html, css, js
+- 18 years old
+! software developer
+# 📖 python, html, css, js, react, & many more to come...
 ```
