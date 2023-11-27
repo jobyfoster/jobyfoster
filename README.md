@@ -6,6 +6,6 @@ hi, im joby 🔮.
 @@programming student.@@
 + dwelling the internet
 - 18 years old
-! software developer
-# 📖 python, html, css, js, react, & many more to come...
+! full stack software developer
+# 📖 python, html, css, js, react, django & many more to come...
 ```
