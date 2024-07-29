@@ -7,5 +7,5 @@ hi, im joby 🔮.
 + dwelling the internet
 - 18 years old
 ! full stack software developer
-# 📖 python, html, css, js, react, django & many more to come...
+# 📖 typescript, python, nextjs, rust & many more to come...
 ```
