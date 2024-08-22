@@ -5,7 +5,7 @@ hi, im joby 🔮.
 
 @@programming student.@@
 + dwelling the internet
-- 18 years old
+- 19 years old
 ! full stack software developer
 # 📖 typescript, python, nextjs, rust & many more to come...
 ```
