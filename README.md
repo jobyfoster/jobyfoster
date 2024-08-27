@@ -3,7 +3,7 @@
 ```diff
 hi, im joby 🔮.
 
-@@programming student.@@
+@@software engineer.@@
 + dwelling the internet
 - 19 years old
 ! full stack software developer
